@@ -12,10 +12,6 @@ THe aim of this project was to demonstrate and data preprocessing, Natural Langu
 
 Jupyter Notebook is used to run Python's libraries to do all the data cleaning, preprocessing, and speech recognition.
 
-## The Data
-
-The text file was provided by the course instructor. However, the text file is missing from the repository.
-
 ## How to run
 
 To run the project, download the jupyter notebook, open the notebook using jupyter and run all cells. However, the text file is not present in the repository so the project will fail to run as the text file will not be found. (Python, jupyter notebook and the respective Python libraries must be installed prior to running the project)
